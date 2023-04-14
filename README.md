@@ -26,6 +26,7 @@ Geeker Admin ![Github stars](https://img.shields.io/github/stars/HalseySpicy/Gee
 
 - https://github.com/HalseySpicy/Geeker-Admin
 - 演示：https://admin.spicyboy.cn/
+- 文档：https://docs.spicyboy.cn/guide/index.html
 
 ```
 ts、数据可视化、表格curd不错、wangeditor
