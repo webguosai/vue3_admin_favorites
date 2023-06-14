@@ -1,4 +1,8 @@
-## vue3 admin + element plus3
+## vue3 admin
+
+> 收集的一些比较好看的vue3 + ts 的后台管理开源项目
+
+### element plus3
 
 vue-next-admin ![Github stars](https://img.shields.io/github/stars/lyt-Top/vue-next-admin.svg) ★★★★
 
@@ -92,6 +96,20 @@ vue3-composition-admin ![Github stars](https://img.shields.io/github/stars/RainM
 表格拖拽
 ```
 
+meadmin ![Github stars](https://img.shields.io/github/stars/meadmin-cn/meadmin-template.svg) ★★
+
+- https://github.com/meadmin-cn/meadmin-template
+- 演示：https://meadmin-cn.gitee.io/meadmin-template/
+- 文档：https://meadmin-cn.gitee.io/meadmin-template-doc/guide/
+
+```
+ts、组件代码依赖少(适合现用)
+```
+
+
+
+### ant-design
+
 vue-vben-admin ![Github stars](https://img.shields.io/github/stars/vbenjs/vue-vben-admin.svg)
 
 * https://github.com/vbenjs/vue-vben-admin
@@ -103,7 +121,9 @@ ts、提供精简版
 不是element plus 用的是ant-design
 ```
 
-其它
+
+
+### 其它
 
 * https://github.com/jekip/naive-ui-admin ![Github stars](https://img.shields.io/github/stars/jekip/naive-ui-admin.svg) 收费
 * https://github.com/moell-peng/mojito-admin ![Github stars](https://img.shields.io/github/stars/moell-peng/mojito-admin.svg) 不推荐
