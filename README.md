@@ -63,7 +63,8 @@ vue-pure-admin ![Github stars](https://img.shields.io/github/stars/xiaoxian521/v
 - 文档：https://yiming_chang.gitee.io/pure-admin-doc/pages/introduction/
 
 ```
-有单独封装的table、提供精简版，兼容移动端，集成ts，表格拖拽、分离的表格
+有单独封装的table（https://github.com/pure-admin/pure-admin-table）
+提供精简版，兼容移动端，集成ts，表格拖拽、分离的表格
 ```
 
 cool-admin-vue ![Github stars](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue.svg) ★★★
