@@ -15,17 +15,6 @@ vue-next-admin ![Github stars](https://img.shields.io/github/stars/lyt-Top/vue-n
 没有mockjs
 ```
 
-vue-element-plus-admin ![Github stars](https://img.shields.io/github/stars/kailong321200875/vue-element-plus-admin.svg) ★★★★
-
-* https://github.com/kailong321200875/vue-element-plus-admin
-* 精简版：https://github.com/kailong321200875/vue-element-plus-admin/tree/template
-* 演示：https://element-plus-admin.cn/
-* 文档：https://element-plus-admin-doc.cn/
-
-```
-提供精简版、ts、wangeditor
-```
-
 Geeker Admin ![Github stars](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin.svg) ★★★
 
 - https://github.com/HalseySpicy/Geeker-Admin
@@ -37,9 +26,21 @@ ts、数据可视化、表格curd不错、wangeditor
 标签没有右键、部分组件没有完善、布局设置相对较少、没有文档
 ```
 
+vue-element-plus-admin ![Github stars](https://img.shields.io/github/stars/kailong321200875/vue-element-plus-admin.svg) ★★★★
+
+* https://github.com/kailong321200875/vue-element-plus-admin
+* 精简版：https://github.com/kailong321200875/vue-element-plus-admin/tree/template
+* 演示：https://element-plus-admin.cn/
+* 文档：https://element-plus-admin-doc.cn/
+
+```
+提供精简版、ts、wangeditor
+```
+
 wocwin Admin ![Github stars](https://img.shields.io/github/stars/wocwin/wocwin-admin.svg) ★★★
 - https://github.com/wocwin/wocwin-admin
 - 演示：https://wocwin.github.io/wocwin-admin/
+- 组件文档：https://wocwin.github.io/t-ui-plus/
 
 ```
 ts、组件代码依赖少(适合现拿现用)
