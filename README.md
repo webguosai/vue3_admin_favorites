@@ -37,6 +37,14 @@ ts、数据可视化、表格curd不错、wangeditor
 标签没有右键、部分组件没有完善、布局设置相对较少、没有文档
 ```
 
+wocwin Admin ![Github stars](https://img.shields.io/github/stars/wocwin/wocwin-admin.svg) ★★★
+- https://github.com/wocwin/wocwin-admin
+- 演示：https://wocwin.github.io/wocwin-admin/
+
+```
+ts、组件代码依赖少(适合现拿现用)
+```
+
 vue-manage-system ![Github stars](https://img.shields.io/github/stars/lin-xin/vue-manage-system.svg) ★★★
 
 * https://github.com/lin-xin/vue-manage-system
@@ -104,7 +112,7 @@ meadmin ![Github stars](https://img.shields.io/github/stars/meadmin-cn/meadmin-t
 - 文档：https://meadmin-cn.gitee.io/meadmin-template-doc/guide/
 
 ```
-ts、组件代码依赖少(适合现用)
+ts、组件代码依赖少(适合现拿现用)
 ```
 
 
