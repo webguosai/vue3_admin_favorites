@@ -23,7 +23,7 @@ Geeker Admin ![Github stars](https://img.shields.io/github/stars/HalseySpicy/Gee
 
 ```
 ts、数据可视化、表格curd不错、wangeditor
-标签没有右键、部分组件没有完善、布局设置相对较少、没有文档
+标签没有右键、部分组件没有完善、移动端效果差
 ```
 
 vue-element-plus-admin ![Github stars](https://img.shields.io/github/stars/kailong321200875/vue-element-plus-admin.svg) ★★★★
