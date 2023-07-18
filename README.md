@@ -46,6 +46,14 @@ wocwin Admin ![Github stars](https://img.shields.io/github/stars/wocwin/wocwin-a
 ts、组件代码依赖少(适合现拿现用)
 ```
 
+buildadmin ![Github stars](https://img.shields.io/github/stars/build-admin/buildadmin.svg) ★★★
+- https://github.com/build-admin/buildadmin/tree/v2/web
+- 演示：https://demo.buildadmin.com/#/admin/login
+
+```
+thinkphp ts、表格curd不错
+```
+
 vue-manage-system ![Github stars](https://img.shields.io/github/stars/lin-xin/vue-manage-system.svg) ★★★
 
 * https://github.com/lin-xin/vue-manage-system
