@@ -139,7 +139,14 @@ ts、提供精简版
 不是element plus 用的是ant-design
 ```
 
+### NaiveUI 
+soybean-admin ![Github stars](https://img.shields.io/github/stars/honghuangdc/soybean-admin.svg)
+- https://github.com/honghuangdc/soybean-admin
+- 演示：https://soybean.pro
 
+```
+echart、地图、视频、编辑器、mock
+```
 
 ### 其它
 
