@@ -148,9 +148,17 @@ soybean-admin ![Github stars](https://img.shields.io/github/stars/honghuangdc/so
 echart、地图、视频、编辑器、mock
 ```
 
+naive-ui-admin (收费) ![Github stars](https://img.shields.io/github/stars/jekip/naive-ui-admin.svg)
+- https://github.com/jekip/naive-ui-admin
+- 演示：https://jekip.github.io/
+- 文档：https://jekip.github.io/docs
+
+```
+mock
+```
+
 ### 其它
 
-* https://github.com/jekip/naive-ui-admin ![Github stars](https://img.shields.io/github/stars/jekip/naive-ui-admin.svg) 收费
 * https://github.com/moell-peng/mojito-admin ![Github stars](https://img.shields.io/github/stars/moell-peng/mojito-admin.svg) 不推荐
 * https://github.com/lqsong/admin-element-vue ![Github stars](https://img.shields.io/github/stars/lqsong/admin-element-vue.svg)
 * https://github.com/ijry/uiadmin ![Github stars](https://img.shields.io/github/stars/ijry/uiadmin.svg)
