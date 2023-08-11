@@ -26,6 +26,15 @@ ts、数据可视化、表格curd不错、wangeditor
 标签没有右键、部分组件没有完善、移动端效果差
 ```
 
+v3-admin-vite ![Github stars](https://img.shields.io/github/stars/un-pany/v3-admin-vite.svg) ★★★
+- https://github.com/un-pany/v3-admin-vite
+- 演示：https://un-pany.github.io/v3-admin-vite
+- 文档：https://juejin.cn/post/7089377403717287972
+
+```
+组件较为精简
+```
+
 vue-element-plus-admin ![Github stars](https://img.shields.io/github/stars/kailong321200875/vue-element-plus-admin.svg) ★★★★
 
 * https://github.com/kailong321200875/vue-element-plus-admin
