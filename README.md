@@ -32,7 +32,7 @@ v3-admin-vite ![Github stars](https://img.shields.io/github/stars/un-pany/v3-adm
 - 文档：https://juejin.cn/post/7089377403717287972
 
 ```
-组件较为精简
+组件较为精简、pnpm
 ```
 
 vue-element-plus-admin ![Github stars](https://img.shields.io/github/stars/kailong321200875/vue-element-plus-admin.svg) ★★★★
