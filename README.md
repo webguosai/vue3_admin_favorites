@@ -4,7 +4,7 @@
 
 ### element plus3
 
-vue-next-admin ![Github stars](https://img.shields.io/github/stars/lyt-Top/vue-next-admin.svg) ★★★★
+#### vue-next-admin ![Github stars](https://img.shields.io/github/stars/lyt-Top/vue-next-admin.svg) ★★★★
 
 * https://github.com/lyt-Top/vue-next-admin
 * 演示：https://lyt-top.gitee.io/vue-next-admin-preview/
@@ -15,7 +15,7 @@ vue-next-admin ![Github stars](https://img.shields.io/github/stars/lyt-Top/vue-n
 没有mockjs
 ```
 
-Geeker Admin ![Github stars](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin.svg) ★★★
+#### Geeker Admin ![Github stars](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin.svg) ★★★
 
 - https://github.com/HalseySpicy/Geeker-Admin
 - 演示：https://admin.spicyboy.cn/
@@ -26,7 +26,16 @@ ts、数据可视化、表格curd不错、wangeditor
 标签没有右键、部分组件没有完善、移动端效果差
 ```
 
-v3-admin-vite ![Github stars](https://img.shields.io/github/stars/un-pany/v3-admin-vite.svg) ★★★
+#### fantastic-admin ![Github stars](https://img.shields.io/github/stars/fantastic-admin/basic.svg) ★★★
+- https://github.com/fantastic-admin/basic
+- 演示(专业版)：https://fantastic-admin.gitee.io/pro-example
+- 文档：https://fantastic-admin.github.io/guide/intro.html
+
+```
+ts、有单独组件、上传组件
+```
+
+#### v3-admin-vite ![Github stars](https://img.shields.io/github/stars/un-pany/v3-admin-vite.svg) ★★★
 - https://github.com/un-pany/v3-admin-vite
 - 演示：https://un-pany.github.io/v3-admin-vite
 - 文档：https://juejin.cn/post/7089377403717287972
@@ -35,7 +44,7 @@ v3-admin-vite ![Github stars](https://img.shields.io/github/stars/un-pany/v3-adm
 组件较为精简、pnpm
 ```
 
-vue-element-plus-admin ![Github stars](https://img.shields.io/github/stars/kailong321200875/vue-element-plus-admin.svg) ★★★★
+#### vue-element-plus-admin ![Github stars](https://img.shields.io/github/stars/kailong321200875/vue-element-plus-admin.svg) ★★★★
 
 * https://github.com/kailong321200875/vue-element-plus-admin
 * 精简版：https://github.com/kailong321200875/vue-element-plus-admin/tree/template
@@ -46,7 +55,7 @@ vue-element-plus-admin ![Github stars](https://img.shields.io/github/stars/kailo
 提供精简版、ts、wangeditor
 ```
 
-wocwin Admin ![Github stars](https://img.shields.io/github/stars/wocwin/wocwin-admin.svg) ★★★
+#### wocwin Admin ![Github stars](https://img.shields.io/github/stars/wocwin/wocwin-admin.svg) ★★★
 - https://github.com/wocwin/wocwin-admin
 - 演示：https://wocwin.github.io/wocwin-admin/
 - 组件文档：https://wocwin.github.io/t-ui-plus/
@@ -55,7 +64,7 @@ wocwin Admin ![Github stars](https://img.shields.io/github/stars/wocwin/wocwin-a
 ts、组件代码依赖少(适合现拿现用)
 ```
 
-buildadmin ![Github stars](https://img.shields.io/github/stars/build-admin/buildadmin.svg) ★★★
+#### buildadmin ![Github stars](https://img.shields.io/github/stars/build-admin/buildadmin.svg) ★★★
 - https://github.com/build-admin/buildadmin/tree/v2/web
 - 演示：https://demo.buildadmin.com/#/admin/login
 
@@ -63,7 +72,7 @@ buildadmin ![Github stars](https://img.shields.io/github/stars/build-admin/build
 thinkphp ts、表格curd不错
 ```
 
-vue-manage-system ![Github stars](https://img.shields.io/github/stars/lin-xin/vue-manage-system.svg) ★★★
+#### vue-manage-system ![Github stars](https://img.shields.io/github/stars/lin-xin/vue-manage-system.svg) ★★★
 
 * https://github.com/lin-xin/vue-manage-system
 * 演示：https://lin-xin.gitee.io/example/work/
@@ -73,7 +82,7 @@ ts、简单上手快
 组件较为精简，无文档
 ```
 
-vue-admin-box ![Github stars](https://img.shields.io/github/stars/cmdparkour/vue-admin-box.svg) ★★★
+#### vue-admin-box ![Github stars](https://img.shields.io/github/stars/cmdparkour/vue-admin-box.svg) ★★★
 
 * https://github.com/cmdparkour/vue-admin-box
 * 演示：https://cmdparkour.github.io/vue-admin-box/dist/
@@ -82,7 +91,7 @@ vue-admin-box ![Github stars](https://img.shields.io/github/stars/cmdparkour/vue
 ts、
 ```
 
-vue-pure-admin ![Github stars](https://img.shields.io/github/stars/xiaoxian521/vue-pure-admin.svg) ★★★
+#### vue-pure-admin ![Github stars](https://img.shields.io/github/stars/xiaoxian521/vue-pure-admin.svg) ★★★
 
 - https://github.com/xiaoxian521/vue-pure-admin
 - 演示：https://yiming_chang.gitee.io/vue-pure-admin
@@ -93,7 +102,7 @@ vue-pure-admin ![Github stars](https://img.shields.io/github/stars/xiaoxian521/v
 提供精简版，兼容移动端，集成ts，表格拖拽、分离的表格
 ```
 
-cool-admin-vue ![Github stars](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue.svg) ★★★
+#### cool-admin-vue ![Github stars](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue.svg) ★★★
 
 * https://github.com/cool-team-official/cool-admin-vue
 * 演示(admin/123456)：https://show.cool-admin.com/login
@@ -104,7 +113,7 @@ ts、wangEditor、后端集成较好
 目录结构比较复杂
 ```
 
-vue-admin-better  ![Github stars](https://img.shields.io/github/stars/chuzhixin/vue-admin-better.svg) ★★
+#### vue-admin-better  ![Github stars](https://img.shields.io/github/stars/chuzhixin/vue-admin-better.svg) ★★
 
 * https://github.com/chuzhixin/vue-admin-better
 * 演示：https://vue-admin-beautiful.com/admin-plus/
@@ -114,7 +123,7 @@ vue-admin-better  ![Github stars](https://img.shields.io/github/stars/chuzhixin/
 收费、vuex
 ```
 
-vue3-composition-admin ![Github stars](https://img.shields.io/github/stars/RainManGO/vue3-composition-admin.svg) ★★
+#### vue3-composition-admin ![Github stars](https://img.shields.io/github/stars/RainManGO/vue3-composition-admin.svg) ★★
 
 - https://github.com/RainManGO/vue3-composition-admin
 - 演示：https://admin-tmpl-test.rencaiyoujia.cn/#/dashboard
@@ -123,7 +132,7 @@ vue3-composition-admin ![Github stars](https://img.shields.io/github/stars/RainM
 表格拖拽
 ```
 
-meadmin ![Github stars](https://img.shields.io/github/stars/meadmin-cn/meadmin-template.svg) ★★
+#### meadmin ![Github stars](https://img.shields.io/github/stars/meadmin-cn/meadmin-template.svg) ★★
 
 - https://github.com/meadmin-cn/meadmin-template
 - 演示：https://meadmin-cn.gitee.io/meadmin-template/
@@ -137,7 +146,7 @@ ts、组件代码依赖少(适合现拿现用)
 
 ### ant-design
 
-vue-vben-admin ![Github stars](https://img.shields.io/github/stars/vbenjs/vue-vben-admin.svg)
+#### vue-vben-admin ![Github stars](https://img.shields.io/github/stars/vbenjs/vue-vben-admin.svg)
 
 * https://github.com/vbenjs/vue-vben-admin
 * 演示：https://vben.vvbin.cn/
@@ -148,13 +157,13 @@ ts、提供精简版
 不是element plus 用的是ant-design
 ```
 
-vue-bag-admin ![Github stars](https://img.shields.io/github/stars/hangjob/vue-bag-admin.svg)
+#### vue-bag-admin ![Github stars](https://img.shields.io/github/stars/hangjob/vue-bag-admin.svg)
 - https://github.com/hangjob/vue-bag-admin
 - 演示：https://vite.itnavs.com/admin.html
 - 文档：https://vite.itnavs.com/doc/admin/guide/introduce.html
 
 ### NaiveUI 
-soybean-admin ![Github stars](https://img.shields.io/github/stars/honghuangdc/soybean-admin.svg)
+#### soybean-admin ![Github stars](https://img.shields.io/github/stars/honghuangdc/soybean-admin.svg)
 - https://github.com/honghuangdc/soybean-admin
 - 演示：https://soybean.pro
 
@@ -162,7 +171,7 @@ soybean-admin ![Github stars](https://img.shields.io/github/stars/honghuangdc/so
 echart、地图、视频、编辑器、mock
 ```
 
-naive-ui-admin (收费) ![Github stars](https://img.shields.io/github/stars/jekip/naive-ui-admin.svg)
+#### naive-ui-admin (收费) ![Github stars](https://img.shields.io/github/stars/jekip/naive-ui-admin.svg)
 - https://github.com/jekip/naive-ui-admin
 - 演示：https://jekip.github.io/
 - 文档：https://jekip.github.io/docs
