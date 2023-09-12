@@ -148,6 +148,11 @@ ts、提供精简版
 不是element plus 用的是ant-design
 ```
 
+vue-bag-admin ![Github stars](https://img.shields.io/github/stars/hangjob/vue-bag-admin.svg)
+- https://github.com/hangjob/vue-bag-admin
+- 演示：https://vite.itnavs.com/admin.html
+- 文档：https://vite.itnavs.com/doc/admin/guide/introduce.html
+
 ### NaiveUI 
 soybean-admin ![Github stars](https://img.shields.io/github/stars/honghuangdc/soybean-admin.svg)
 - https://github.com/honghuangdc/soybean-admin
