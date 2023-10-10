@@ -26,6 +26,18 @@ ts、数据可视化、表格curd不错、wangeditor
 标签没有右键、部分组件没有完善、移动端效果差
 ```
 
+#### vue-pure-admin ![Github stars](https://img.shields.io/github/stars/xiaoxian521/vue-pure-admin.svg) ★★★
+
+- https://github.com/xiaoxian521/vue-pure-admin
+- 演示：https://yiming_chang.gitee.io/vue-pure-admin
+- 文档：https://yiming_chang.gitee.io/pure-admin-doc/pages/introduction/
+
+```
+有单独封装的table（https://github.com/pure-admin/pure-admin-table）
+提供精简版，兼容移动端，集成ts，表格拖拽、分离的表格、防抖、节流、作者维护更新频率高
+没有底部版权
+```
+
 #### fantastic-admin ![Github stars](https://img.shields.io/github/stars/fantastic-admin/basic.svg) ★★★
 - https://github.com/fantastic-admin/basic
 - 演示(专业版)：https://fantastic-admin.gitee.io/pro-example
@@ -89,17 +101,6 @@ ts、简单上手快
 
 ```
 ts、
-```
-
-#### vue-pure-admin ![Github stars](https://img.shields.io/github/stars/xiaoxian521/vue-pure-admin.svg) ★★★
-
-- https://github.com/xiaoxian521/vue-pure-admin
-- 演示：https://yiming_chang.gitee.io/vue-pure-admin
-- 文档：https://yiming_chang.gitee.io/pure-admin-doc/pages/introduction/
-
-```
-有单独封装的table（https://github.com/pure-admin/pure-admin-table）
-提供精简版，兼容移动端，集成ts，表格拖拽、分离的表格
 ```
 
 #### cool-admin-vue ![Github stars](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue.svg) ★★★
