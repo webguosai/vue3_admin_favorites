@@ -7,7 +7,9 @@
 
 #### vue-next-admin ![Github stars](https://img.shields.io/github/stars/lyt-Top/vue-next-admin.svg) ★★★★
 <details><summary><b>界面</b></summary>
+
 ![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/fe301f5f-cb9c-4bd8-841e-a3a4c290b8ec)
+
 </details>
 
 * https://github.com/lyt-Top/vue-next-admin
@@ -21,7 +23,9 @@
 
 #### Geeker Admin ![Github stars](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin.svg) ★★★
 <details><summary><b>界面</b></summary>
+
 ![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/99bab2c6-a70d-400b-8d6d-269d5bd02f7f)
+
 </details>
 
 - https://github.com/HalseySpicy/Geeker-Admin
@@ -35,7 +39,9 @@ ts、数据可视化、表格curd不错、wangeditor
 
 #### vue-pure-admin ![Github stars](https://img.shields.io/github/stars/xiaoxian521/vue-pure-admin.svg) ★★★
 <details><summary><b>界面</b></summary>
+
 ![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/6b99ea1a-1dfe-4ea6-bcbc-e0b6c8371129)
+
 </details>
 
 - https://github.com/xiaoxian521/vue-pure-admin
@@ -50,7 +56,9 @@ ts、数据可视化、表格curd不错、wangeditor
 
 #### fantastic-admin ![Github stars](https://img.shields.io/github/stars/fantastic-admin/basic.svg) ★★★
 <details><summary><b>界面</b></summary>
+
 ![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/0d7f67e3-f626-41f0-bee8-61ef44327d2e)
+
 </details>
 
 - https://github.com/fantastic-admin/basic
@@ -72,7 +80,9 @@ ts、有单独组件、上传组件
 
 #### vue-element-plus-admin ![Github stars](https://img.shields.io/github/stars/kailong321200875/vue-element-plus-admin.svg) ★★★★
 <details><summary><b>界面</b></summary>
+
 ![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/3ca0c7ab-b9ee-4dfd-ba7a-b85711ffadaf)
+
 </details>
 
 * https://github.com/kailong321200875/vue-element-plus-admin
