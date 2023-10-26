@@ -70,6 +70,12 @@ ts、有单独组件、上传组件
 ```
 
 #### v3-admin-vite ![Github stars](https://img.shields.io/github/stars/un-pany/v3-admin-vite.svg) ★★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/e7db2318-c521-401e-8b18-5f251995e960)
+
+</details>
+
 - https://github.com/un-pany/v3-admin-vite
 - 演示：https://un-pany.github.io/v3-admin-vite
 - 文档：https://juejin.cn/post/7089377403717287972
@@ -95,6 +101,12 @@ ts、有单独组件、上传组件
 ```
 
 #### wocwin Admin ![Github stars](https://img.shields.io/github/stars/wocwin/wocwin-admin.svg) ★★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/217f51a7-99c6-4b9b-8044-00af57e3c58e)
+
+</details>
+
 - https://github.com/wocwin/wocwin-admin
 - 演示：https://wocwin.github.io/wocwin-admin/
 - 组件文档：https://wocwin.github.io/t-ui-plus/
@@ -104,6 +116,12 @@ ts、组件代码依赖少(适合现拿现用)
 ```
 
 #### buildadmin ![Github stars](https://img.shields.io/github/stars/build-admin/buildadmin.svg) ★★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/e2a52536-c8f1-406d-ad15-dc06269ee093)
+
+</details>
+
 - https://github.com/build-admin/buildadmin/tree/v2/web
 - 演示：https://demo.buildadmin.com/#/admin/login
 
@@ -112,6 +130,11 @@ thinkphp ts、表格curd不错
 ```
 
 #### vue-manage-system ![Github stars](https://img.shields.io/github/stars/lin-xin/vue-manage-system.svg) ★★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/d09a2638-6bbc-4dd4-bf51-e4b1567f3b1c)
+
+</details>
 
 * https://github.com/lin-xin/vue-manage-system
 * 演示：https://lin-xin.gitee.io/example/work/
@@ -122,6 +145,11 @@ ts、简单上手快
 ```
 
 #### vue-admin-box ![Github stars](https://img.shields.io/github/stars/cmdparkour/vue-admin-box.svg) ★★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/7c471c3a-b417-4757-97a7-3d717ceb1ce5)
+
+</details>
 
 * https://github.com/cmdparkour/vue-admin-box
 * 演示：https://cmdparkour.github.io/vue-admin-box/dist/
@@ -131,6 +159,11 @@ ts、
 ```
 
 #### cool-admin-vue ![Github stars](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue.svg) ★★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/1208ed65-e991-4121-88e8-2da5e04d8ab8)
+
+</details>
 
 * https://github.com/cool-team-official/cool-admin-vue
 * 演示(admin/123456)：https://show.cool-admin.com/login
@@ -142,6 +175,11 @@ ts、wangEditor、后端集成较好
 ```
 
 #### vue-admin-better  ![Github stars](https://img.shields.io/github/stars/chuzhixin/vue-admin-better.svg) ★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/6970f8bc-412d-43db-8139-26b7a8a4f5d6)
+
+</details>
 
 * https://github.com/chuzhixin/vue-admin-better
 * 演示：https://vue-admin-beautiful.com/admin-plus/
@@ -152,6 +190,11 @@ ts、wangEditor、后端集成较好
 ```
 
 #### vue3-composition-admin ![Github stars](https://img.shields.io/github/stars/RainManGO/vue3-composition-admin.svg) ★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/5f415a49-74b4-4906-b465-02d9de4f0e3c)
+
+</details>
 
 - https://github.com/RainManGO/vue3-composition-admin
 - 演示：https://admin-tmpl-test.rencaiyoujia.cn/#/dashboard
@@ -161,6 +204,11 @@ ts、wangEditor、后端集成较好
 ```
 
 #### meadmin ![Github stars](https://img.shields.io/github/stars/meadmin-cn/meadmin-template.svg) ★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/webguosai/vue3_admin_collect/assets/2083784/6e813a6b-dfb9-4d7a-babd-c72a3c9d0a93)
+
+</details>
 
 - https://github.com/meadmin-cn/meadmin-template
 - 演示：https://meadmin-cn.gitee.io/meadmin-template/
