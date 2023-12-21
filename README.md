@@ -69,7 +69,7 @@ ts、数据可视化、表格curd不错、wangeditor
 ts、有单独组件、上传组件
 ```
 
-#### SCUI-Admin ![Github stars](https://img.shields.io/github/stars/curvanordw11/SCUI-Admin.svg) ★★★
+#### SCUI-Admin ![Github stars](https://gitee.com/lolicode/scui/badge/star.svg?theme=gvp) ★★★
 <details><summary><b>界面</b></summary>
 
 ![image](https://github.com/webguosai/vue3_admin_favorites/assets/2083784/a6f5a65d-84c6-41a6-9201-ee5eba08bd8f)
@@ -80,7 +80,7 @@ ts、有单独组件、上传组件
 - 演示：https://curvanordw11.github.io/SCUI-Admin/dist/
 
 ```
-js tinymce编辑器
+js tinymce编辑器、有单独组件
 ```
 
 #### v3-admin-vite ![Github stars](https://img.shields.io/github/stars/un-pany/v3-admin-vite.svg) ★★★
