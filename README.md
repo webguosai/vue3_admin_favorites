@@ -69,6 +69,21 @@ ts、数据可视化、表格curd不错、wangeditor
 ts、有单独组件、上传组件
 ```
 
+#### admin-work ![Github stars](https://img.shields.io/github/stars/qingqingxuan/admin-work.svg) ★★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/webguosai/vue3_admin_favorites/assets/2083784/c1883f0e-94c8-4538-b38f-d65ab4df866a)
+
+</details>
+
+* https://github.com/qingqingxuan/admin-work
+* 演示：http://x.vueadminwork.com/
+* 文档：http://www.vueadminwork.com/guide/introduce
+
+```
+精简,提供多种ui的模板
+```
+
 #### SCUI-Admin ![Github stars](https://gitee.com/lolicode/scui/badge/star.svg?theme=gvp) ★★★
 <details><summary><b>界面</b></summary>
 
