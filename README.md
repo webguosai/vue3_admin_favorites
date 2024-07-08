@@ -158,6 +158,21 @@ ts、组件代码依赖少(适合现拿现用)
 thinkphp ts、表格curd不错
 ```
 
+#### catchadmin ![Github stars](https://img.shields.io/github/stars/JaguarJack/catch-admin-vue.svg) ★★★
+<details><summary><b>界面</b></summary>
+  
+![image](https://github.com/webguosai/vue3_admin_favorites/assets/2083784/43da140e-80a8-419d-a641-707007d48777)
+
+</details>
+
+* https://github.com/JaguarJack/catch-admin-vue
+* 演示：https://v3.catchadmin.com/
+
+```
+ts、简单上手快、个人中心界面
+组件较为精简，提供laravel、tp、webman后端版本
+```
+
 #### vue-manage-system ![Github stars](https://img.shields.io/github/stars/lin-xin/vue-manage-system.svg) ★★★
 <details><summary><b>界面</b></summary>
 
