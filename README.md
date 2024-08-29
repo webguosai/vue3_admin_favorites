@@ -13,8 +13,9 @@
 </details>
 
 * https://github.com/lyt-Top/vue-next-admin
-* 演示：https://lyt-top.gitee.io/vue-next-admin-preview/
-* 文档：https://lyt-top.gitee.io/vue-next-admin-doc-preview/
+* https://gitee.com/lyt-top/vue-next-admin
+* 演示：http://vuenextadmin.ccfast.cc/
+* 文档：https://gitee.com/lyt-top/vue-next-admin-doc
 
 ```
 提供精简版，ts、数据可视化、wangEditor
