@@ -46,7 +46,7 @@ ts、数据可视化、表格curd不错、wangeditor
 </details>
 
 - https://github.com/xiaoxian521/vue-pure-admin
-- 演示：https://yiming_chang.gitee.io/vue-pure-admin
+- 演示：https://pure-admin.github.io/vue-pure-admin/#/login
 - 文档：https://yiming_chang.gitee.io/pure-admin-doc/pages/introduction/
 
 ```
@@ -63,7 +63,7 @@ ts、数据可视化、表格curd不错、wangeditor
 </details>
 
 - https://github.com/fantastic-admin/basic
-- 演示(专业版)：https://fantastic-admin.gitee.io/pro-example
+- 演示(专业版)：https://fantastic-admin.hurui.me/pro-example/#/home
 - 文档：https://fantastic-admin.github.io/guide/intro.html
 
 ```
