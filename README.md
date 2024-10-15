@@ -38,6 +38,22 @@ ts、数据可视化、表格curd不错、wangeditor
 标签没有右键、部分组件没有完善、移动端效果差
 ```
 
+#### koi-ui ![Github stars](https://img.shields.io/github/stars/yuxintao6/koi-ui.svg) ★★★★
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/user-attachments/assets/ce2735ad-d4f0-4541-a2b1-ee56095b48fa)
+
+</details>
+
+- https://github.com/yuxintao6/koi-ui
+- 演示：http://39.107.143.109/home/index
+- 文档：无
+
+```
+界面不错
+无文档
+```
+
 #### vue-pure-admin ![Github stars](https://img.shields.io/github/stars/xiaoxian521/vue-pure-admin.svg) ★★★
 <details><summary><b>界面</b></summary>
 
