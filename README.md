@@ -256,8 +256,8 @@ ts、wangEditor、后端集成较好
 </details>
 
 - https://github.com/meadmin-cn/meadmin-template
-- 演示：https://meadmin-cn.gitee.io/meadmin-template/
-- 文档：https://meadmin-cn.gitee.io/meadmin-template-doc/guide/
+- 演示：https://meadmin-cn.github.io/meadmin-template
+- 文档：https://meadmin-cn.github.io/meadmin-template-doc
 
 ```
 ts、组件代码依赖少(适合现拿现用)
