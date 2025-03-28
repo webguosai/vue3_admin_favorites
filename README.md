@@ -159,7 +159,7 @@ js tinymce编辑器、有单独组件
 - 组件文档：https://wocwin.github.io/t-ui-plus/
 
 ```
-ts、组件代码依赖少(适合现拿现用)
+ts、组件代码依赖少(适合现拿现用)、地图
 ```
 
 #### buildadmin ![Github stars](https://img.shields.io/github/stars/build-admin/buildadmin.svg) ★★★
