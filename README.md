@@ -318,6 +318,21 @@ echart、地图、视频、编辑器、mock
 mock
 ```
 
+### Arco Design Vue
+#### Gi Admin Pro ![Github stars](https://img.shields.io/github/stars/lin-97/gi-demo.svg)
+<details><summary><b>界面</b></summary>
+
+![image](https://github.com/user-attachments/assets/35c53d71-5d13-4f96-949b-7b9b2b17af25)
+
+</details>
+
+* https://github.com/lin-97/gi-demo
+* 演示：https://lin-97.github.io/gi-demo/#/home
+
+```
+完整的后台管理功能，包含菜单、用户...管理
+```
+
 ### 其它
 
 * https://github.com/moell-peng/mojito-admin ![Github stars](https://img.shields.io/github/stars/moell-peng/mojito-admin.svg) 不推荐
