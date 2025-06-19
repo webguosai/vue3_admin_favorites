@@ -304,7 +304,7 @@ ts、提供精简版
 ### NaiveUI 
 #### soybean-admin ![Github stars](https://img.shields.io/github/stars/honghuangdc/soybean-admin.svg)
 - https://github.com/honghuangdc/soybean-admin
-- 演示：https://soybean.pro
+- 演示：https://soybeanjs.cn/home
 
 ```
 echart、地图、视频、编辑器、mock
